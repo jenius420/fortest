@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hi</h1>
-	<a href="views/hello.jsp">이동</a>
+	 <h1>Hi->hello</h1>
 </body>
 </html>
